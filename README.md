@@ -181,3 +181,22 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 <br/>
 
 # Software, Resources and Tutorials
+
+<h3>Course Tools</h3>
+
+Our main tools in this class will be a text editor (Brackets) and a browser (Google Chrome). You’re free to use additional tools such as Adobe Creative Suite for asset creation, or Sketch (which we’ll learn about later in the semester) for mocking up designs.
+
+* Text Editors: <a href="https://www.sublimetext.com/">Sublime Text</a> or <a href="http://brackets.io/">Brackets</a> (we will use Brackets in class)
+* Browser: Chrome 
+* GitHub 
+* Adobe Photoshop or Illustrator for creating assets
+* Notebook and pen for sketching and note-taking
+
+<hr/>
+
+<h3>Learning Resources</h3>
+
+There is no official textbook for this class. Students interested in textbook resources should consider <a href="https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?ie=UTF8&qid=1485985491&sr=8-1&keywords=html+and+css">this HTML and CSS book</a> and <a href="https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&qid=1485985719&sr=8-1&keywords=javascript+and+jquery">this JavaScript and JQuery book.</a> You should also consult the <a href="https://developer.mozilla.org/en-US/docs/Web/">Mozilla</a> or <a href="http://www.w3schools.com/">W3 schools<a> documentation.<br/>
+
+For additional resources and tutorials, <a href="https://github.com/rlieberman/CG214-2017/wiki/Resources-&-Tutorials">please visit the course Resources page.</a>
+
