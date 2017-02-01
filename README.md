@@ -14,7 +14,7 @@ Section 103: 11:10AM- 1:00PM
 Room C409<br/>
 
 <h3>Course Communication</h3>
-Course website: https://github.com/rlieberman/CG214<br/>
+Course website: https://github.com/rlieberman/CG214-2017<br/>
 Course Google group: <b>[LINK HERE]</b>
 
 This is a group email list that we'll use for class communication in both my sections of CG-214 this Spring. <br/>
@@ -198,5 +198,5 @@ Our main tools in this class will be a text editor (Brackets) and a browser (Goo
 
 There is no official textbook for this class. Students interested in textbook resources should consider <a href="https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?ie=UTF8&qid=1485985491&sr=8-1&keywords=html+and+css">this HTML and CSS book</a> and <a href="https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&qid=1485985719&sr=8-1&keywords=javascript+and+jquery">this JavaScript and JQuery book.</a> You should also consult the <a href="https://developer.mozilla.org/en-US/docs/Web/">Mozilla</a> or <a href="http://www.w3schools.com/">W3 schools<a> documentation.<br/>
 
-For an abundant list of additional resources, tutorials and web design inspiration, <a href="https://github.com/rlieberman/CG214-2017/wiki/Resources-&-Tutorials">please visit the course Resources page.</a>
+For an abundant list of additional resources, tutorials and web design inspiration, <a href="https://github.com/rlieberman/CG214-2017/wiki/Learning-Resources">please visit the course Resources page.</a>
 
