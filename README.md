@@ -51,7 +51,9 @@ Every student will have to give an individual 7-10 minute presentation on a webs
 
 There will be at least 1 student presenting per week, depending on the number of students in the class. 
 
-[SIGN UP LINK HERE - 1 per each section]
+Please sign up for a presentation week according to what section you are in:
+* [Section 102 (9AM) Presentation Signup] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Signup:-Section-103-(11AM))
+* [Section 103 (11AM) Presentation Signup]
 
 <b>3. Midterm Project</b><br/>
 Your midterm project will be a website responding to one of the following assignment prompts:
