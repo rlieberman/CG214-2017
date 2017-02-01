@@ -177,8 +177,8 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 14 - Thursday 5/11: Design Process and Looking Ahead</h3>
 
-<h3>Week 15 - Thursday 5/11: Final Project Presentations</h3><br/>
-<br/>
+<h3>Week 15 - Thursday 5/11: Final Project Presentations</h3>
+
 
 # Software, Resources and Tutorials
 
