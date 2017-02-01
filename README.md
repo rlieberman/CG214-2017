@@ -3,11 +3,11 @@ CG-214, FIT Spring 2017 <br/>
 1.5 credits / 1 hour 50 minutes<br/>
 
 
-Section 102: 9:10AM-11:00AM<br/>
-Room C309C<br/>
+<b>Section 102: 9:10AM-11:00AM
+Room C309C<br/></b>
 
-Section 103: 11:10AM- 1:00PM<br/>        
-Room C409<br/>
+<b>Section 103: 11:10AM- 1:00PM      
+Room C409<br/></b>
 
 Instructor: Rebecca Lieberman <br/>
 Email: rebecca_lieberman@fitnyc.edu<br/>
