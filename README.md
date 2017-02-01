@@ -42,7 +42,9 @@ This 15-week course introduces students to the basics of web design and programm
 # Work and Requirements
 <h3>Course Deliverables</h3>
 <b>1. Weekly Homework</b><br/>
-Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. 
+Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. <br/>
+
+Homework assignments <b>must be posted on GitHub by 5pm on Wednesday evenings,</b> so that I have enough time to look them over before class.
 
 <b>2. Presentation: Website Design Review (1 person per week)</b><br/>
 Every student will have to give an individual 7-10 minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
@@ -76,8 +78,30 @@ This class meets for 1 hour and 50 minutes per week. We have a ton of material t
 The full academic calendar is <a href="https://www.fitnyc.edu/registrar/academic-calendar/">here for your reference.</a>
 <hr/>
 <h3>Participation</h3>
+Participation is imperative in this class. You are expected to engage actively in class discussions, presentations and technical demos. We have a lot of material to cover, so please come each week prepared to pay attention and participate actively in class. <br/>
+
+Asking questions is highly encouraged. There are no stupid questions; if you have a question, most likely somebody else in the room has the same one.
 <hr/>
 <h3>Grading Criteria</h3>
+Students will be assessed on both technical skills as well as critical thinking, creativity and presentation. Grades are based on completion and quality of projects, homework assignments, class participation and attendance. Assignment due dates are hard dates, which means points will be deducted for late assignments and homework. <br/>
+
+<b>Final grades in the course will reflect the following:
+
+* Participation and Attendance - 20%
+* Weekly homework assignments - 20%
+* Website presentation - 10%
+* Midterm Project - 20%
+* Final Project - 30%
+</b>
+
+<b>And in general, grades are determined according to the following breakdown:</b>
+* A = 90-100%, excellent work 
+* B = 80-89%, above average work 
+* C= 70-79%, average or competent work 
+* D = 60-69%, below average work 
+* F = 0-59%, unsatisfactory work
+
+<b>Please note:</b> Assignments must be posted on GitHub by 5pm on Wednesday evenings, so that I have enough time to look them over before class. 5% will be deducted per late assignment per day. 
 
 # Course Policies
 # Week-by-Week Schedule
