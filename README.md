@@ -122,7 +122,8 @@ Students with learning, hearing, visual, physical/mobility, and medical disabili
 
 <h3>Discrimination and Harassment</h3>
 
-Discrimination and harassment are behaviors that are incompatible with the standard of conduct required of a member of the FIT community in the workplace or in any college-related setting, including but not limited to off-campus, college-related events and activities. <a href="https://www.fitnyc.edu/policies/college/nondiscrimination.php">More information on the FIT website here.</a>
+Discrimination and harassment are behaviors that are incompatible with the standard of conduct required of a member of the FIT community in the workplace or in any college-related setting, including but not limited to off-campus, college-related events and activities. <a href="https://www.fitnyc.edu/policies/college/nondiscrimination.php">More information on the FIT website here.</a><br/>
+<br/>
 
 # Week-by-Week Schedule
 
