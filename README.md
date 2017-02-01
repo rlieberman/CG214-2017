@@ -15,12 +15,14 @@ Room C409<br/>
 
 
 <h3>Course Communication</h3>
-Course website: https://github.com/rlieberman/CG214
-Course Google group: [LINK HERE]
+Course website: https://github.com/rlieberman/CG214<br/>
+Course Google group: <b>[LINK HERE]</b>
 
 
-This is a group email list that we'll use for class communication in both my sections of CG-214 this Spring. 
-The purpose of this list is for course-related announcements, discussion and questions. Feel free to share web-related links, articles and inspiration. This is also a great place to ask questions about what you're working on or things you're struggling with technically. You may of course email me individually, but most likely someone else in the class has the same question so it's a great way to learn from each other.
+This is a group email list that we'll use for class communication in both my sections of CG-214 this Spring. <br/>
+
+The purpose of this list is for course-related announcements, discussion and questions. Feel free to share web-related links, articles and inspiration. This is also a great place to ask questions about what you're working on or things you're struggling with technically. You may of course email me individually, but most likely someone else in the class has the same question so it's a great way to learn from each other.<br/>
+
 We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements directly.
 
 --
