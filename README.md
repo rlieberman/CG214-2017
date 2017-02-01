@@ -21,8 +21,8 @@ This is a group email list that we'll use for class communication in both my sec
 
 The purpose of this list is for course-related announcements, discussion and questions. Feel free to share web-related links, articles and inspiration. This is also a great place to ask questions about what you're working on or things you're struggling with technically. You may of course email me individually, but most likely someone else in the class has the same question so it's a great way to learn from each other.<br/>
 
-We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements separately.
-
+We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements separately.<br/>
+<br/>
 
 # Course Description 
 
@@ -36,31 +36,29 @@ This 15-week course introduces students to the basics of web design and programm
 * Use Github and Github Pages to post homework
 * Know the basic technical vocabulary of the front-end web, so that they can pursue more advanced web programming; this includes understanding the relationship between HTML, CSS and JavaScript and being able to read the HTML / CSS of other websites using browser’s developer tools
 * Incorporate libraries such as Bootstrap to create responsive designs
-* Develop a critical vocabulary for looking at and talking about web experiences 
+* Develop a critical vocabulary for looking at and talking about web experiences<br/>
+<br/>
 
 # Work and Requirements
 <h3>Course Deliverables</h3>
-<b>Weekly Homework</b><br/>
+<b>1. Weekly Homework</b><br/>
 Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. 
 
-
-<b>Presentation: Website Design Review (1 person per week)</b><br/>
+<b>2. Presentation: Website Design Review (1 person per week)</b><br/>
 Every student will have to give an individual 7-10 minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
 
 There will be at least 1 student presenting per week, depending on the number of students in the class. 
 
 [SIGN UP LINK HERE - 1 per each section]
 
-<hr/>
-
-<b>Midterm Project</b><br/>
+<b>3. Midterm Project</b><br/>
 Your midterm project will be a website responding to one of the following assignment prompts:
 * An interactive self portrait
 * A piece of hypertext narrative
 * A redesign of an existing site
 There will be a set of additional technical requirements you must meet for this assignment, to be reviewed later in the semester.
 
-<b>Final Project</b><br/>
+<b>4. Final Project</b><br/>
 Your final project will be full-scale website design and implementation that can either be a development of your midterm or a portfolio site for yourself. Unlike the midterm, which is a shorter assignment, we will go through a full design process of sketching, wireframing, designing and then building out this site.
 
 <hr/>
