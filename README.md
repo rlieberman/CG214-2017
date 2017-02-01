@@ -15,7 +15,7 @@ Room C409<br/>
 
 <h3>Course Communication</h3>
 Course website: https://github.com/rlieberman/CG214-2017<br/>
-Course Google group: <b>[LINK HERE]</b>
+[Course Google group] (https://groups.google.com/forum/#!forum/cg-214-spring-17)
 
 This is a group email list that we'll use for class communication in both my sections of CG-214 this Spring. <br/>
 
