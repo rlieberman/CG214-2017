@@ -26,6 +26,19 @@ The purpose of this list is for course-related announcements, discussion and que
 We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements separately.
 
 # Course Description 
+
+This 15-week course introduces students to the basics of web design and programming for the web. Students will work primarily with HTML and CSS to build the structural and visual components of a website, using CSS to integrate interaction and animation. In the second half of the semester, students will be introduced to other libraries for responsive design (Bootstrap) and languages (JavaScript) to create more complex, interactive websites.
+
+<b>By the end of the course, students should be able to:</b>
+* Write HTML to create the structural foundation of a website, and use it at an intermediate level
+* Style websites with CSS, and make websites dynamic with CSS transitions 
+* Create a unique website based on their own designs and visual ideas, considering key aspects of visual systems, interaction and user experience
+* Debug their work and know how to search for necessary documentation or supplemental information
+* Use Github and Github Pages to post homework
+* Know the basic technical vocabulary of the front-end web, so that they can pursue more advanced web programming; this includes understanding the relationship between HTML, CSS and JavaScript and being able to read the HTML / CSS of other websites using browser’s developer tools
+* Incorporate libraries such as Bootstrap to create responsive designs
+* Develop a critical vocabulary for looking at and talking about web experiences 
+
 # Work and Requirements
 # Course Policies
 # Week-by-Week Schedule
