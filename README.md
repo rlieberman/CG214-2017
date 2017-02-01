@@ -13,7 +13,6 @@ Room C309C<br/>
 Section 103: 11:10AM- 1:00PM      
 Room C409<br/>
 
-<br/>
 <h3>Course Communication</h3>
 Course website: https://github.com/rlieberman/CG214<br/>
 Course Google group: <b>[LINK HERE]</b>
@@ -44,7 +43,6 @@ This 15-week course introduces students to the basics of web design and programm
 <b>Weekly Homework</b><br/>
 Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. 
 
-<br/>
 
 <b>Presentation: Website Design Review (1 person per week)</b><br/>
 Every student will have to give an individual 7-10 minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
@@ -53,7 +51,7 @@ There will be at least 1 student presenting per week, depending on the number of
 
 [SIGN UP LINK HERE - 1 per each section]
 
-<br/>
+<hr/>
 
 <b>Midterm Project</b><br/>
 Your midterm project will be a website responding to one of the following assignment prompts:
@@ -62,12 +60,22 @@ Your midterm project will be a website responding to one of the following assign
 * A redesign of an existing site
 There will be a set of additional technical requirements you must meet for this assignment, to be reviewed later in the semester.
 
-<br/>
 <b>Final Project</b><br/>
 Your final project will be full-scale website design and implementation that can either be a development of your midterm or a portfolio site for yourself. Unlike the midterm, which is a shorter assignment, we will go through a full design process of sketching, wireframing, designing and then building out this site.
 
 <hr/>
 <h3>Attendance</h3>
+Attendance is mandatory and will be taken at the beginning of each class.
+
+This class meets for 1 hour and 50 minutes per week. We have a ton of material to cover, so come on time.  Students who come in later than 30 minutes after the class started will be marked absent.
+
+<b>If you know in advance that you will not be able to attend a class, email me beforehand.</b>
+
+* 3 unexcused latenesses = one absence. 
+* 3 unexcused absences = one half grade decrease (e.g. an A becomes an A-). 
+* More than 3 unexcused absences a student will receive a failing grade. 
+
+The full academic calendar is <a href="https://www.fitnyc.edu/registrar/academic-calendar/">here for your reference.</a>
 <hr/>
 <h3>Participation</h3>
 <hr/>
