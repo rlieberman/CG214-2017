@@ -101,8 +101,29 @@ Students will be assessed on both technical skills as well as critical thinking,
 * D = 60-69%, below average work 
 * F = 0-59%, unsatisfactory work
 
-<b>Please note:</b> Assignments must be posted on GitHub by 5pm on Wednesday evenings, so that I have enough time to look them over before class. 5% will be deducted per late assignment per day. 
+<b>Please note:</b> Assignments must be posted on GitHub by 5pm on Wednesday evenings, so that I have enough time to look them over before class. 5% will be deducted per late assignment per day.<br/>
+<br/>
 
 # Course Policies
+As an instructor, and part of FIT,  I am committed to maintaining a positive learning environment where people can safely ask questions, engage in thoughtful discussion and challenge themselves both academically and creatively. <br/>
+
+<h3>Academic Integrity</h3>
+Academic integrity is a serious thing. Please read over <a href="https://www.fitnyc.edu/policies/academic-affairs/academic-honor-code.php">FIT’s Academic Honor Code here.</a> 
+
+In the world of programming, sharing and repurposing code is often encouraged. It’s fine to look at other people’s code or refer to examples, but be sure to always give credit and acknowledge your sources.
+
+<hr/>
+
+<h3>Disability</h3>
+
+Students with learning, hearing, visual, physical/mobility, and medical disabilities are invited to meet with the staff of FIT-ABLE, the College’s Office of Disability Services in A570 or call 212.217.4090.
+
+<hr/>
+
+<h3>Discrimination and Harassment</h3>
+
+Discrimination and harassment are behaviors that are incompatible with the standard of conduct required of a member of the FIT community in the workplace or in any college-related setting, including but not limited to off-campus, college-related events and activities. <a href="https://www.fitnyc.edu/policies/college/nondiscrimination.php">More information on the FIT website here.</a>
+
 # Week-by-Week Schedule
+
 # Software, Resources and Tutorials
