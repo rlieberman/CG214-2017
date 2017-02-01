@@ -127,4 +127,57 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 # Week-by-Week Schedule
 
+<h3>Week 1 - Thursday 2/2: Intro to the Web and HTML Basics</h3>
+* Syllabus Review and Class Introductions
+* Intro to the web: how it all works
+* HTML Structure
+* Basic HTML Tags
+
+<h3>Week 2 - Thursday 2/9: Github, Brackets, and HTML Images</h3>
+* Intro to Brackets
+* Intro to Github
+* File Structure and Website Boilerplate
+* HTML Images
+* Additional HTML Tags
+
+<h3>Week 3 - Thursday 2/16: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
+  * HTML Media Elements
+  * HTML Validator
+  * Working with multiple HTML Pages
+
+<h3>Week 4 - Thursday 2/23: HTML Tables, Forms, Inputs and Buttons</h3>
+
+<h3>Week 5 - Thursday 3/2: Introduction to CSS</h3>
+* CSS Selectors
+* CSS Syntax
+* Inline vs External CSS
+
+<h3>Week 6 - Thursday 3/9: CSS Color and Fonts</h3>
+* Web Design and Visual Systems
+* Using Google Fonts
+
+<h3>Week 7 - Thursday 3/16: Design Tools Overview and CSS Box Model</h3>
+* Boxes and layout
+* Overview of design tools and process
+* Midterm Brainstorm
+
+<h3>Week 8 - Thursday 3/23: CSS Layout Part 1</h3>
+
+<h3>Week 9 - Thursday 3/30: Midterm Project Presentations</h3>
+
+<h3>Week 10 - Thursday 4/6: CSS Layout Part 2</h3>
+
+<h3>---    Thursday 4/13: NO CLASS (Spring Recess)   ---</h3>
+
+<h3>Week 11 - Thursday 4/20: Styling Forms and Images</h3>
+
+<h3>Week 12 - Thursday 4/27: CSS Transitions and Animations</h3>
+
+<h3>Week 13 - Thursday 5/4: Responsive Design with Bootstrap</h3>
+
+<h3>Week 14 - Thursday 5/11: Design Process and Looking Ahead</h3>
+
+<h3>Week 15 - Thursday 5/11: Final Project Presentations</h3>
+
+
 # Software, Resources and Tutorials
