@@ -13,17 +13,17 @@ Room C309C<br/>
 Section 103: 11:10AM- 1:00PM      
 Room C409<br/>
 
-
+<br/>
 <h3>Course Communication</h3>
 Course website: https://github.com/rlieberman/CG214<br/>
 Course Google group: <b>[LINK HERE]</b>
-
 
 This is a group email list that we'll use for class communication in both my sections of CG-214 this Spring. <br/>
 
 The purpose of this list is for course-related announcements, discussion and questions. Feel free to share web-related links, articles and inspiration. This is also a great place to ask questions about what you're working on or things you're struggling with technically. You may of course email me individually, but most likely someone else in the class has the same question so it's a great way to learn from each other.<br/>
 
 We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements separately.
+
 
 # Course Description 
 
@@ -41,6 +41,31 @@ This 15-week course introduces students to the basics of web design and programm
 
 # Work and Requirements
 <h3>Course Deliverables</h3>
+<b>Weekly Homework</b><br/>
+Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. 
+
+<br/>
+
+<b>Presentation: Website Design Review (1 person per week)</b><br/>
+Every student will have to give an individual 7-10 minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
+
+There will be at least 1 student presenting per week, depending on the number of students in the class. 
+
+[SIGN UP LINK HERE - 1 per each section]
+
+<br/>
+
+<b>Midterm Project</b><br/>
+Your midterm project will be a website responding to one of the following assignment prompts:
+* An interactive self portrait
+* A piece of hypertext narrative
+* A redesign of an existing site
+There will be a set of additional technical requirements you must meet for this assignment, to be reviewed later in the semester.
+
+<br/>
+<b>Final Project</b><br/>
+Your final project will be full-scale website design and implementation that can either be a development of your midterm or a portfolio site for yourself. Unlike the midterm, which is a shorter assignment, we will go through a full design process of sketching, wireframing, designing and then building out this site.
+
 <hr/>
 <h3>Attendance</h3>
 <hr/>
