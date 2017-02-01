@@ -55,14 +55,14 @@ Please sign up for a presentation week according to what section you are in:
 * [Section 102 (9AM) Presentation Signup] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Signup:-Section-102-(9AM))
 * [Section 103 (11AM) Presentation Signup] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Signup:-Section-103-(11AM))
 
-<b>3. Midterm Project</b><br/>
+<b>3. Midterm Project (Due Week 9)</b><br/>
 Your midterm project will be a website responding to one of the following assignment prompts:
 * An interactive self portrait
 * A piece of hypertext narrative
 * A redesign of an existing site
 There will be a set of additional technical requirements you must meet for this assignment, to be reviewed later in the semester.
 
-<b>4. Final Project</b><br/>
+<b>4. Final Project (Due Week 15)</b><br/>
 Your final project will be full-scale website design and implementation that can either be a development of your midterm or a portfolio site for yourself. Unlike the midterm, which is a shorter assignment, we will go through a full design process of sketching, wireframing, designing and then building out this site.
 
 <hr/>
