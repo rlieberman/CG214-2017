@@ -2,17 +2,19 @@
 CG-214, FIT Spring 2017 <br/>
 1.5 credits / 1 hour 50 minutes<br/>
 
-
-<b>Section 102: 9:10AM-11:00AM
-Room C309C<br/></b>
-
-<b>Section 103: 11:10AM- 1:00PM      
-Room C409<br/></b>
-
 Instructor: Rebecca Lieberman <br/>
 Email: rebecca_lieberman@fitnyc.edu<br/>
 Office Hours: TBD by appointment<br/>
 
+<h3>Section Information</h3>
+Section 102: 9:10AM-11:00AM<br/>
+Room C309C<br/>
+
+Section 103: 11:10AM- 1:00PM      
+Room C409<br/>
+
+
+<h3>Course Communication</h3>
 Course website: https://github.com/rlieberman/CG214
 Course Google group: [LINK HERE]
 
