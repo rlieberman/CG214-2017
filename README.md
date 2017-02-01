@@ -40,6 +40,14 @@ This 15-week course introduces students to the basics of web design and programm
 * Develop a critical vocabulary for looking at and talking about web experiences 
 
 # Work and Requirements
+<h3>Course Deliverables</h3>
+<hr/>
+<h3>Attendance</h3>
+<hr/>
+<h3>Participation</h3>
+<hr/>
+<h3>Grading Criteria</h3>
+
 # Course Policies
 # Week-by-Week Schedule
 # Software, Resources and Tutorials
