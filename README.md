@@ -23,7 +23,7 @@ This is a group email list that we'll use for class communication in both my sec
 
 The purpose of this list is for course-related announcements, discussion and questions. Feel free to share web-related links, articles and inspiration. This is also a great place to ask questions about what you're working on or things you're struggling with technically. You may of course email me individually, but most likely someone else in the class has the same question so it's a great way to learn from each other.<br/>
 
-We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements directly.
+We'll use it as a group across both sections 102 and 103. I will communicate section-specific announcements separately.
 
 # Course Description 
 # Work and Requirements
