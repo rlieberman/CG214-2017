@@ -59,7 +59,8 @@ Please sign up for a presentation week according to what section you are in:
 Your midterm project will be a website responding to one of the following assignment prompts:
 * An interactive self portrait
 * A piece of hypertext narrative
-* A redesign of an existing site
+* A redesign of an existing site<br/>
+
 There will be a set of additional technical requirements you must meet for this assignment, to be reviewed later in the semester.
 
 <b>4. Final Project (Due Week 15)</b><br/>
