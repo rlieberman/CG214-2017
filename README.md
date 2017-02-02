@@ -103,7 +103,7 @@ Students will be assessed on both technical skills as well as critical thinking,
 * D = 60-69%, below average work 
 * F = 0-59%, unsatisfactory work
 
-<b>Please note:</b> Assignments must be posted on GitHub by 5pm on Wednesday evenings, so that I have enough time to look them over before class. 5% will be deducted per late assignment per day.<br/>
+<b>Please note:</b> Assignments must be posted on GitHub by 7pm on Wednesday evenings, so that I have enough time to look them over before class. 5% will be deducted per late assignment per day.<br/>
 <br/>
 
 # Course Policies
@@ -179,7 +179,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 14 - Thursday 5/11: Design Process and Looking Ahead</h3>
 
-<h3>Week 15 - Thursday 5/11: Final Project Presentations</h3>
+<h3>Week 15 - Thursday 5/18: Final Project Presentations</h3>
 
 
 # Software, Resources and Tutorials
