@@ -110,6 +110,13 @@ Students will be assessed on both technical skills as well as critical thinking,
 # Course Policies
 As an instructor, and part of FIT,  I am committed to maintaining a positive learning environment where people can safely ask questions, engage in thoughtful discussion and challenge themselves both academically and creatively. <br/>
 
+<h3>Computer Lab Policies</h3>
+When we’re looking at code together or doing an in-class exercise, students will need to be working using a computer. However, when your classmates are presenting and during group discussions, you are expected to refrain from using the computer. Additionally:
+
+* No eating or drinking is allowed in the classrooms or computer labs.
+* No email, social media or cell phone use in class.
+* Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes.
+
 <h3>Academic Integrity</h3>
 Academic integrity is a serious thing. Please read over <a href="https://www.fitnyc.edu/policies/academic-affairs/academic-honor-code.php">FIT’s Academic Honor Code here.</a> 
 
