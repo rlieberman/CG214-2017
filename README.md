@@ -117,6 +117,8 @@ When we’re looking at code together or doing an in-class exercise, students wi
 * No email, social media or cell phone use in class.
 * Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes.
 
+<hr/>
+
 <h3>Academic Integrity</h3>
 Academic integrity is a serious thing. Please read over <a href="https://www.fitnyc.edu/policies/academic-affairs/academic-honor-code.php">FIT’s Academic Honor Code here.</a> 
 
