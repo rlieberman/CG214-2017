@@ -44,7 +44,7 @@ This 15-week course introduces students to the basics of web design and programm
 <b>1. Weekly Homework</b><br/>
 Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. <br/>
 
-Homework assignments <b>must be posted on GitHub by 5pm on Wednesday evenings,</b> so that I have enough time to look them over before class.
+Homework assignments <b>must be posted on GitHub by 7pm on Wednesday evenings,</b> so that I have enough time to look them over before class. I will not accept late homework.
 
 <b>2. Presentation: Website Design Review (1 person per week)</b><br/>
 Every student will have to give an individual 7-10 minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
