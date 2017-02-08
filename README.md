@@ -158,14 +158,18 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 3 - Thursday 2/16: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
  * HTML Media Elements
+  * Audio
+  * Video
+  * iFrames
  * HTML Validator
  * Working with multiple HTML Pages
 
 <h3>Week 4 - Thursday 2/23: HTML Tables, Forms, Inputs and Buttons</h3>
  * HTML Tables
  * HTML Forms and Inputs
- * Knowing which input to use
+ * Design Topic: Knowing which input to use
  * HTML Buttons
+ * Intro to Developer Tools
 
 <h3>Week 5 - Thursday 3/2: Introduction to CSS</h3>
 * CSS Selectors
@@ -173,7 +177,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * Inline vs External CSS
 
 <h3>Week 6 - Thursday 3/9: CSS Color and Fonts</h3>
-* Web Design and Visual Systems
+* Design Topic: Web Design and Visual Systems
 * Using Google Fonts
 
 <h3>Week 7 - Thursday 3/16: Design Tools Overview and CSS Box Model</h3>
