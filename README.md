@@ -149,6 +149,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 [Week 1 slides and homework are here](https://github.com/rlieberman/CG214-2017/wiki/Week-1:-Intro-to-the-Web-and-HTML).
 
 <h3>Week 2 - Thursday 2/9: Github, Brackets, and HTML Images</h3>
+* Review HTML Tags
 * Intro to Brackets
 * Intro to Github
 * File Structure and Website Boilerplate
@@ -156,11 +157,15 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * Additional HTML Tags
 
 <h3>Week 3 - Thursday 2/16: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
-  * HTML Media Elements
-  * HTML Validator
-  * Working with multiple HTML Pages
+ * HTML Media Elements
+ * HTML Validator
+ * Working with multiple HTML Pages
 
 <h3>Week 4 - Thursday 2/23: HTML Tables, Forms, Inputs and Buttons</h3>
+ * HTML Tables
+ * HTML Forms and Inputs
+ * Knowing which input to use
+ * HTML Buttons
 
 <h3>Week 5 - Thursday 3/2: Introduction to CSS</h3>
 * CSS Selectors
