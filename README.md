@@ -48,13 +48,12 @@ Each week you’ll have a homework assignment that requires mastery of the mater
 Homework assignments <b>must be posted on GitHub by 7pm on Wednesday evenings,</b> so that I have enough time to look them over before class. I will not accept late homework.
 
 <b>2. Presentation: Website Design Review (1 person per week)</b><br/>
-Every student will have to give an individual 7-10 minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
+Every student will have to give an individual 5-minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
 
 There will be at least 1 student presenting per week, depending on the number of students in the class. 
 
-Please sign up for a presentation week according to what section you are in:
-* [Section 102 (9AM) Presentation Signup] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Signup:-Section-102-(9AM))
-* [Section 103 (11AM) Presentation Signup] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Signup:-Section-103-(11AM))
+Please read the presentation guidelines and sign up for a slot [here] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Assignment:-Guidelines-&-Signup).
+
 
 <b>3. Midterm Project (Due Week 9)</b><br/>
 Your midterm project will be a website responding to one of the following assignment prompts:
