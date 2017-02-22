@@ -55,7 +55,7 @@ There will be at least 1 student presenting per week, depending on the number of
 Please read the presentation guidelines and sign up for a slot [here] (https://github.com/rlieberman/CG214-2017/wiki/Presentation-Assignment:-Guidelines-&-Signup).
 
 
-<b>3. Midterm Project (Due Week 9)</b><br/>
+<b>3. Midterm Project (Due Week 8)</b><br/>
 Your midterm project will be a website responding to one of the following assignment prompts:
 * An interactive self portrait
 * A piece of hypertext narrative
@@ -63,7 +63,7 @@ Your midterm project will be a website responding to one of the following assign
 
 There will be a set of additional technical requirements you must meet for this assignment, to be reviewed later in the semester.
 
-<b>4. Final Project (Due Week 15)</b><br/>
+<b>4. Final Project (Due Week 14)</b><br/>
 Your final project will be full-scale website design and implementation that can either be a development of your midterm or a portfolio site for yourself. Unlike the midterm, which is a shorter assignment, we will go through a full design process of sketching, wireframing, designing and then building out this site.
 
 <hr/>
@@ -147,9 +147,9 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 [Week 1 slides and homework are here](https://github.com/rlieberman/CG214-2017/wiki/Week-1:-Intro-to-the-Web-and-HTML).
 
-~~Week 2 - Thursday 2/9: SNOW DAY - CLASS CANCELED~~
+<h3>/// Thursday 2/9: SNOW DAY - CLASS CANCELED ///</h3>
 
-<h3>Week 3 - Thursday 2/16: Github, Brackets, and HTML Images</h3>
+<h3>Week 2 - Thursday 2/16: Github, Brackets, and HTML Images</h3>
 * Review HTML Tags
 * Intro to Brackets
 * Intro to Github
@@ -157,7 +157,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * HTML Images
 * Additional HTML Tags
 
-<h3>Week 4 - Thursday 2/23: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
+<h3>Week 3 - Thursday 2/23: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
  * HTML Media Elements
  * Audio
  * Video
@@ -166,7 +166,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
  * Working with multiple HTML Pages
 
 
-<h3>Week 5 - Thursday 3/2: HTML Tables, Forms, Inputs and Buttons</h3>
+<h3>Week 4 - Thursday 3/2: HTML Tables, Forms, Inputs and Buttons</h3>
  * HTML Tables
  * HTML Forms and Inputs
  * Design Topic: Knowing which input to use
@@ -174,38 +174,38 @@ Discrimination and harassment are behaviors that are incompatible with the stand
  * Intro to Developer Tools
  * Intro to IDs and Classes
 
-<h3>Week 6 - Thursday 3/9: Introduction to CSS</h3>
+<h3>Week 5 - Thursday 3/9: Introduction to CSS</h3>
 * CSS Selectors
 * CSS Syntax
 * Inline vs External CSS
 
-<h3>Week 7 - Thursday 3/16: CSS Box Model</h3>
+<h3>Week 6 - Thursday 3/16: CSS Box Model</h3>
 * Introducing CSS Box Model
 * Boxes and layout
 * Midterm Brainstorm
 
-<h3>Week 8 - Thursday 3/23: Design Tools Overview</h3>
+<h3>Week 7 - Thursday 3/23: Design Tools Overview</h3>
 * CSS Layout Continued
 * Design Topic: Web Design and Visual Systems
 * Using Google Fonts
 * Overview of design tools and process
 
 
-<h3>Week 9 - Thursday 3/30: Midterm Project Presentations</h3>
+<h3>Week 8 - Thursday 3/30: Midterm Project Presentations</h3>
 
-<h3>Week 10 - Thursday 4/6: CSS Layout Part 2</h3>
+<h3>Week 9 - Thursday 4/6: CSS Layout Part 2</h3>
 
 <h3>---    Thursday 4/13: NO CLASS (Spring Recess)   ---</h3>
 
-<h3>Week 11 - Thursday 4/20: Styling Forms and Images</h3>
+<h3>Week 10 - Thursday 4/20: Styling Forms and Images</h3>
 
-<h3>Week 12 - Thursday 4/27: CSS Transitions and Animations</h3>
+<h3>Week 11 - Thursday 4/27: CSS Transitions and Animations</h3>
 
-<h3>Week 13 - Thursday 5/4: Responsive Design with Bootstrap</h3>
+<h3>Week 12 - Thursday 5/4: Responsive Design with Bootstrap</h3>
 
-<h3>Week 14 - Thursday 5/11: Design Process and Looking Ahead</h3>
+<h3>Week 13 - Thursday 5/11: Design Process and Looking Ahead</h3>
 
-<h3>Week 15 - Thursday 5/18: Final Project Presentations</h3>
+<h3>Week 14 - Thursday 5/18: Final Project Presentations</h3>
 
 
 # Software, Resources and Tutorials
