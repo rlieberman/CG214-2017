@@ -147,7 +147,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 [Week 1 slides and homework are here](https://github.com/rlieberman/CG214-2017/wiki/Week-1:-Intro-to-the-Web-and-HTML).
 
-~~<h3>Week 2 - Thursday 2/9: SNOW DAY - CLASS CANCELED</h3>~~
+~~Week 2 - Thursday 2/9: SNOW DAY - CLASS CANCELED~~
 
 <h3>Week 3 - Thursday 2/16: Github, Brackets, and HTML Images</h3>
 * Review HTML Tags
