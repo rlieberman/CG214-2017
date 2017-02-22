@@ -149,7 +149,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 2 - Thursday 2/9: SNOW DAY - CLASS CANCELED</h3>
 
-<h3>Week 3 - Thursday 2/16: Github, Brackets, and HTML Images Multiple HTML Pages, HTML Media Elements and iFrames</h3>
+<h3>Week 3 - Thursday 2/16: Github, Brackets, and HTML Images</h3>
 * Review HTML Tags
 * Intro to Brackets
 * Intro to Github
@@ -157,34 +157,39 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * HTML Images
 * Additional HTML Tags
 
-<h3>Week 4 - Thursday 2/23: HTML Tables, Forms, Inputs and Buttons</h3>
+<h3>Week 4 - Thursday 2/23: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
  * HTML Media Elements
  * Audio
  * Video
  * iFrames
  * HTML Validator
  * Working with multiple HTML Pages
+
+
+<h3>Week 5 - Thursday 3/2: HTML Tables, Forms, Inputs and Buttons</h3>
  * HTML Tables
  * HTML Forms and Inputs
  * Design Topic: Knowing which input to use
  * HTML Buttons
  * Intro to Developer Tools
+ * Intro to IDs and Classes
 
-<h3>Week 5 - Thursday 3/2: Introduction to CSS</h3>
+<h3>Week 6 - Thursday 3/9: Introduction to CSS</h3>
 * CSS Selectors
 * CSS Syntax
 * Inline vs External CSS
 
-<h3>Week 6 - Thursday 3/9: CSS Color and Fonts</h3>
-* Design Topic: Web Design and Visual Systems
-* Using Google Fonts
-
-<h3>Week 7 - Thursday 3/16: Design Tools Overview and CSS Box Model</h3>
+<h3>Week 7 - Thursday 3/16: CSS Box Model</h3>
+* Introducing CSS Box Model
 * Boxes and layout
-* Overview of design tools and process
 * Midterm Brainstorm
 
-<h3>Week 8 - Thursday 3/23: CSS Layout Part 1</h3>
+<h3>Week 8 - Thursday 3/23: Design Tools Overview</h3>
+* CSS Layout Continued
+* Design Topic: Web Design and Visual Systems
+* Using Google Fonts
+* Overview of design tools and process
+
 
 <h3>Week 9 - Thursday 3/30: Midterm Project Presentations</h3>
 
