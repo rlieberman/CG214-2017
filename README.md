@@ -168,16 +168,18 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 4 - Thursday 3/2: HTML Tables, Forms, Inputs and Buttons</h3>
 
+ * Review: Github and Github Pages
  * HTML Forms and Inputs
  * HTML Buttons
- * Design Topic: Wireframes
  * Intro to Developer Tools
- * Intro to IDs and Classes
 
 <h3>Week 5 - Thursday 3/9: Introduction to CSS</h3>
-* CSS Selectors
-* CSS Syntax
-* Inline vs External CSS
+ * Intro to IDs and Classes
+ * CSS Selectors 
+ * CSS Syntax
+ * Inline vs External CSS
+ * Design Topic: Wireframes 
+ * Intro Midterm Assignment
 
 <h3>Week 6 - Thursday 3/16: CSS Box Model</h3>
 * Introducing CSS Box Model
