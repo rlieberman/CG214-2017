@@ -183,6 +183,8 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 6 - Thursday 3/16: CSS Box Model</h3>
 * Introducing CSS Box Model
+* Block vs Inline Elements
+* Divs and Spans in HTML
 * Boxes and layout
 * Midterm Brainstorm
 
