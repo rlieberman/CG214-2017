@@ -1,0 +1,77 @@
+<!doctype html>
+
+<html>
+
+    <head>
+        <title>Intro to HTML forms</title>
+
+    </head>
+
+    <body>
+
+        <h1>Problems with your account? Contact Us</h1>
+
+        <form>
+            <p>Username: </p>
+            <input type="text" placeholder="Enter your username" maxlength="100">
+            </input>
+        </form>
+
+         <form>
+            <p>Password: </p>
+            <input type="password" placeholder="Enter your password" maxlength="100">
+            </input>
+        </form>
+
+        <form>
+            <p>Problems you are having: </p>
+            <textarea placeholder="Describe the problems you're having with your account"></textarea>
+        </form>
+
+       <br/>
+       <br/>
+
+       <form>
+          <input type="checkbox">Email me a copy of my submission</input>
+       </form>
+
+       <br/>
+
+        <form>
+            <p>I am a...</p>
+            <select>
+              <option>Student</option>
+              <option>Faculty</option>
+              <option>Staff</option>
+              <option>Other</option>
+            </select>
+        </form>
+
+       <form>
+        <p>Choose what department you are in at FIT:</p>
+        <input type="radio" name="department" value="Textile Design">Textile Design</input>
+        <input type="radio" name="department" value="Fine Arts">Fine Arts</input>
+        <input type="radio" name="department" value="Photography">Photography</input>
+        <input type="radio" name="department" value="Other">Other</input>
+       </form>
+
+
+        <br/>
+        <br/>
+       <br/>
+       <button type="submit">Submit your comments</button>
+       <br/>
+       <br/>
+       <input type="submit">
+
+    </body>
+
+    <style>
+      body {
+        padding: 50px;
+        width: 60%;
+       /* border: 1px solid black;*/
+      }
+    </style>
+
+</html>
