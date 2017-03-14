@@ -140,6 +140,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 # Week-by-Week Schedule
 
 <h3>Week 1 - Thursday 2/2: Intro to the Web and HTML Basics</h3>
+
 * Syllabus Review and Class Introductions
 * Intro to the web: how it all works
 * HTML Structure
@@ -150,6 +151,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 <h3>/// Thursday 2/9: SNOW DAY - CLASS CANCELED ///</h3>
 
 <h3>Week 2 - Thursday 2/16: Github, Brackets, and HTML Images</h3>
+
 * Review HTML Tags
 * Intro to Brackets
 * Intro to Github
@@ -158,6 +160,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * Additional HTML Tags
 
 <h3>Week 3 - Thursday 2/23: Multiple HTML Pages, HTML Media Elements and iFrames</h3>
+
  * HTML Media Elements
     * Audio
     * Video
@@ -174,6 +177,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
  * Intro to Developer Tools
 
 <h3>Week 5 - Thursday 3/9: Introduction to CSS</h3>
+
  * Intro to IDs and Classes
  * CSS Selectors 
  * CSS Syntax
@@ -182,6 +186,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
  * Intro Midterm Assignment
 
 <h3>Week 6 - Thursday 3/16: CSS Color and Fonts</h3>
+
 * CSS Color
 * CSS Fonts
   * Text Properties
@@ -190,6 +195,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * Midterm Meetings
 
 <h3>Week 7 - Thursday 3/23: CSS Box Model and Layout</h3>
+
 * Introducing CSS Box Model
 * Block vs Inline Elements
 * Divs and Spans in HTML
