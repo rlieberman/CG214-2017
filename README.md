@@ -181,19 +181,20 @@ Discrimination and harassment are behaviors that are incompatible with the stand
  * Design Topic: Wireframes 
  * Intro Midterm Assignment
 
-<h3>Week 6 - Thursday 3/16: CSS Box Model</h3>
+<h3>Week 6 - Thursday 3/16: CSS Color and Fonts</h3>
+* CSS Color
+* CSS Fonts
+  * Text Properties
+  * Custom Fonts - Using Google Fonts
+  * Hover States
+* Midterm Meetings
+
+<h3>Week 7 - Thursday 3/23: CSS Box Model and Layout</h3>
 * Introducing CSS Box Model
 * Block vs Inline Elements
 * Divs and Spans in HTML
 * Boxes and layout
-* Midterm Brainstorm
-
-<h3>Week 7 - Thursday 3/23: Design Tools Overview</h3>
-* CSS Layout Continued
-* Design Topic: Web Design and Visual Systems
-* Using Google Fonts
-* Overview of design tools and process
-
+* Design Topic: Grids and Visual Systems
 
 <h3>Week 8 - Thursday 3/30: Midterm Project Presentations</h3>
 
