@@ -1,0 +1,63 @@
+/* =================================
+  Base Styles
+==================================== */
+
+
+* {
+	/* this keeps padding from increasing our box dimensions
+	it will add padding inside the box rather than outside */
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+    font-family: 'Slabo 27px', serif;
+}
+
+#header {
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+    text-align:center;
+}
+
+#header a {
+    
+    color: white;
+    padding: 15px;
+    font-size: 12px;
+    text-decoration:none;
+}
+
+#header a:hover {
+    background-color:#bdbebf;
+    color:darkblue;
+}
+
+
+.page-title {
+    font-size: 60px;  
+}
+
+h2 {
+    font-size: 16px;
+    text-transform:uppercase;
+    color:#bdbebf;
+}
+
+p {
+    
+    font-size: 14px;
+}
+
+#section-1, #section-2{
+	padding-left: 15%;
+	padding-right: 15%;
+	
+}
+
+footer {
+   background-color: #bdbebf;
+   text-align: center;
+   padding: 20px;
+}
