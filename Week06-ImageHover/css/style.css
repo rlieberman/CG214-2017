@@ -1,0 +1,46 @@
+/* =================================
+  Base Styles
+==================================== */
+
+* {
+	/* this keeps padding from increasing our box dimensions
+	it will add padding inside the box rather than outside */
+	box-sizing: border-box;
+}
+
+
+.coloronhover {
+		width: 800px;
+		height: 408px;
+		background: url('https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F16a75c6c-ca78-486d-89e1-a18498fbf636.png?w=740&h=437&fit=crop&crop=faces&auto=format&q=70');
+
+	}
+
+.coloronhover:hover {
+	background-color: #ffcc00;
+	background-image: none;
+}
+
+
+.changeopacity {
+		width: 800px;
+		height: 408px;
+		background: url('https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F16a75c6c-ca78-486d-89e1-a18498fbf636.png?w=740&h=437&fit=crop&crop=faces&auto=format&q=70');
+}
+
+.changeopacity:hover {
+		opacity: .4;
+
+}
+
+.switchimage {
+				width: 800px;
+				height: 408px;
+				background: url('https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F16a75c6c-ca78-486d-89e1-a18498fbf636.png?w=740&h=437&fit=crop&crop=faces&auto=format&q=70');
+		}
+
+.switchimage:hover {
+
+		background: url('https://ih1.redbubble.net/image.78066216.8395/flat,800x800,075,f.jpg');
+
+}
