@@ -40,3 +40,21 @@ p {
 span {
 	border: 3px solid green;
 }
+
+/*styling other spans using classes .pinktext, .purpletext, .bluetext*/
+.pinktext {
+    color: deeppink;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+}
+
+.purpletext {
+    color: rebeccapurple;
+    border: none;
+}
+
+.bluetext {
+    color: deepskyblue;
+    border: none;
+}
