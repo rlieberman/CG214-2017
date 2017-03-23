@@ -1,0 +1,43 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+}
+
+body {
+	max-width: 800px;
+	min-width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.div1 {
+
+	 background-color: #42f4ee;
+	 float: left;
+	 /*width: 400px;*/
+	 width: 48%;
+	 /*also show percentage widths
+	 width: 60%;*/
+	 padding: 25px;
+	 /*margin: 10px;*/
+box-sizing: border-box;
+}
+
+
+.div2 {
+
+	 background-color: #f46a38;
+	 float: right;
+	 /*width: 400px;*/
+	 width: 48%;
+	 box-sizing: border-box;
+	 /*also show percentage widths
+	 width: 40%; */
+
+	 padding: 25px;
+	 /*margin: 10px;*/
+
+}

@@ -1,0 +1,64 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+}
+
+body {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.div1 {
+	width: 600px;
+	height: 300px;
+	/*background-image will repeat by default unless you add background-repeat: no-repeat;*/
+	background-image: url('../images/pattern.png');
+}
+
+
+.div2 {
+	/*background-image needs a width and a height of the div to display*/
+	width: 400px;
+	height: 400px;
+	background-image: url('../images/triangles.png');
+	border-radius: 50%;
+	background-size: cover;
+
+}
+
+.div3 {
+	width: 900px;
+	height: 300px;
+	/*specify the size of the background image using background-size*/
+	background-size: 100px;
+	background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/738px-Twitter_bird_logo_2012.svg.png');
+	background-position:center;
+	background-repeat: no-repeat;
+	background-color: #e8e8e8;
+}
+
+.div4 {
+	width: 900px;
+	height: 600px;
+	/*specify the size of the background image using background-size*/
+	background-size: 300px;
+	background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/738px-Twitter_bird_logo_2012.svg.png');
+	background-position: 30%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: #e8e8e8;
+}
+
+.div5 {
+	width: 600px;
+	height: 400px;
+	background-repeat: no-repeat;
+	/*the first image goes first, the second image we want behind it goes second*/
+	background-image: url('../images/omg.gif'),url('../images/pool.jpg') ;
+	background-size: auto, cover;
+	background-position: center, left top;
+}

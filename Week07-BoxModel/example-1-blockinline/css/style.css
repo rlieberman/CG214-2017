@@ -1,0 +1,42 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+	margin-top: 0px;
+
+}
+
+body {
+	background-color: #e8e8e8;
+	font-family: Helvetica, sans-serif;
+}
+
+#container {
+	max-width: 900px;
+	min-width: 700px;
+	min-height: 600px;
+	background-color: white;
+	/*use margin auto on both sides to center the content horizontally*/
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+h1 {
+	font-size: 42px;
+	border: 3px solid red;
+}
+
+p {
+	font-size: 16px;
+	border: 2px solid blue;
+}
+
+
+.child {
+	border: 2px solid orange;
+}
+
+span {
+	border: 3px solid green;
+}

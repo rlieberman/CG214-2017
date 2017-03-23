@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Basic Box Model Demo</title>
+
+		<style type="text/css">
+
+		*, *:before, *:after {
+			/*changes how our box model works by including padding and border within the width*/
+		  box-sizing: border-box;
+		}
+
+		body {
+			font-family: Helvetica, sans-serif;
+		}
+
+		p {
+			background-color: #f4f4f4;
+		 	width: 900px;
+		 	border: 10px solid #24e2b3;
+		 	padding: 25px;
+		 	margin: 25px;
+		}
+
+		</style>
+	</head>
+
+	<body>
+		<p>
+			This text is the actual content of the box. We have added a 25px padding, 25px margin and a 10px green border. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+	</body>
+</html>

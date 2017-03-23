@@ -1,0 +1,29 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+}
+
+body {
+	max-width: 800px;
+	min-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+
+.div2 {
+	/*background-image needs a width and a height of the div to display*/
+	width:500px;
+	height: 500px;
+	background-image: url('../images/triangles.png');
+	border-radius: 50%;
+	background-size: cover;
+	margin: 0 auto 0 auto;
+}
+
+h1 {
+	text-align: center;
+}

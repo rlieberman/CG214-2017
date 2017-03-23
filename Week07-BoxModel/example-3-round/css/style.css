@@ -1,0 +1,73 @@
+/* =================================
+  Base Styles
+==================================== */
+
+
+* {
+	/*show this as a fix for two column layout*/
+	box-sizing: border-box;
+}
+
+body {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.div1 {
+
+	 background-color: #38e2e0;
+	 text-align: center;
+	  line-height: 150px;
+	 color: white;
+	 width: 150px;
+	 height: 150px;
+	 margin-right: 50px;
+	 display: inline-block;
+	 border-radius: 50%;
+}
+
+
+.div2 {
+
+	 background-color: #8b5def;
+	 text-align: center;;
+	 line-height: 150px;
+	 color: white;
+	 width: 150px;
+	 height: 150px;
+	 margin-right: 50px;
+	 display: inline-block;
+	 border-radius: 50%;
+}
+
+.div3 {
+
+	 background-color: #ff724f;
+	 text-align: center;
+	  line-height: 150px;
+	 color: white;
+	 width: 150px;
+	 height: 150px;
+	 margin-right: 50px;
+	  border-radius: 50%;
+	 display: inline-block;
+}
+
+.div4 {
+
+	 background-color: #80ff4f;
+	 text-align: center;
+	  line-height: 150px;
+	 color: white;
+	 width: 150px;
+	 height: 150px;
+	 border-radius: 50%;
+	 display: inline-block;
+}
+
+div:hover {
+	 box-shadow: 10px 10px rgba(0,0,0,.2);
+}
