@@ -1,0 +1,17 @@
+/*using this tutorial as reference https://css-tricks.com/perfect-full-page-background-image/*/
+
+
+html {
+  background: url('../images/pool.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+ font-family: Helvetica;
+ color: white;
+ margin: 40px;
+
+}

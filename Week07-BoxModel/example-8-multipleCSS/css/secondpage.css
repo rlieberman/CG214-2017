@@ -1,0 +1,14 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+	margin-top: 0px;
+
+}
+
+body {
+	background-color: blue;
+	font-family: Georgia, serif;
+	color: white;
+	padding: 200px;
+}

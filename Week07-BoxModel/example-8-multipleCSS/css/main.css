@@ -1,0 +1,26 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+	margin-top: 0px;
+
+}
+
+body {
+	background-color: yellow;
+	font-family: Helvetica, sans-serif;
+	color: navy;
+	padding: 100px;
+}
+
+a {
+	text-decoration: none;
+	color: navy;
+	border: 2px solid navy;
+	padding: 10px;
+}
+
+a:hover {
+	background-color: navy;
+	color: yellow;
+}
