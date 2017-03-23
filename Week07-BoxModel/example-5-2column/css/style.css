@@ -1,7 +1,45 @@
 
+/*always use this to make the box model way easier*/
 *, *:before, *:after {
-	/*show this as a fix for two column layout*/
+    
   box-sizing: border-box;
+}
+
+body {
+	max-width: 800px;
+	min-width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.div1 {
+
+	 background-color: #42f4ee;
+     width: 380px;
+	 float: left;
+     min-height: 450px;
+	 /*also show percentage widths
+	 width: 60%;*/
+	 padding: 25px;
+	 margin: 10px;
+   
+}
+
+
+.div2 {
+
+	 background-color: #f46a38;
+     width: 380px;
+	 float: right;
+     min-height: 450px;
+	 /*also show percentage widths
+	 width: 40%; */
+
+	 padding: 25px;
+	 margin: 10px;
+
 }
 
 body {
