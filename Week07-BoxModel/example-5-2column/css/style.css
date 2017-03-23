@@ -1,4 +1,5 @@
 
+
 /*always use this to make the box model way easier*/
 *, *:before, *:after {
     
@@ -17,10 +18,10 @@ body {
 .div1 {
 
 	 background-color: #42f4ee;
-     width: 380px;
+     	 width: 380px;
 	 float: left;
-     min-height: 450px;
-	 /*also show percentage widths
+    	 min-height: 450px;
+	 /*also show percentage widths instead of px
 	 width: 60%;*/
 	 padding: 25px;
 	 margin: 10px;
@@ -31,51 +32,13 @@ body {
 .div2 {
 
 	 background-color: #f46a38;
-     width: 380px;
+     	 width: 380px;
 	 float: right;
-     min-height: 450px;
-	 /*also show percentage widths
+     	 min-height: 450px;
+	 /*also show percentage widths instead of px
 	 width: 40%; */
 
 	 padding: 25px;
 	 margin: 10px;
-
-}
-
-body {
-	max-width: 800px;
-	min-width: 550px;
-	margin-left: auto;
-	margin-right: auto;
-	font-family: Helvetica, sans-serif;
-
-}
-
-.div1 {
-
-	 background-color: #42f4ee;
-	 float: left;
-	 /*width: 400px;*/
-	 width: 48%;
-	 /*also show percentage widths
-	 width: 60%;*/
-	 padding: 25px;
-	 /*margin: 10px;*/
-box-sizing: border-box;
-}
-
-
-.div2 {
-
-	 background-color: #f46a38;
-	 float: right;
-	 /*width: 400px;*/
-	 width: 48%;
-	 box-sizing: border-box;
-	 /*also show percentage widths
-	 width: 40%; */
-
-	 padding: 25px;
-	 /*margin: 10px;*/
 
 }
