@@ -69,5 +69,11 @@ body {
 }
 
 div:hover {
-	 box-shadow: 10px 10px rgba(0,0,0,.2);
+/*	 box-shadow: 10px 10px rgba(0,0,0,.2);*/
+    background-color: black;
+/*
+    background-image: url('http://s4.thingpic.com/images/43/kXzoimWAgfNywwu6TV4fAu52.jpeg');
+    background-size: cover;
+*/
+
 }
