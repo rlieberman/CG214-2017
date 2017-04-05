@@ -194,7 +194,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
   * Hover States
 * Midterm Meetings
 
-<h3>Week 7 - Thursday 3/23: CSS Box Model and Layout</h3>
+<h3>Week 7 - Thursday 3/23: Introducing the CSS Box Model</h3>
 
 * Introducing CSS Box Model
 * Block vs Inline Elements
@@ -204,17 +204,17 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 <h3>Week 8 - Thursday 3/30: Midterm Project Presentations</h3>
 
-<h3>Week 9 - Thursday 4/6: CSS Layout Part 2</h3>
+<h3>Week 9 - Thursday 4/6: CSS Layout Part 1</h3>
 
 <h3>---    Thursday 4/13: NO CLASS (Spring Recess)   ---</h3>
 
-<h3>Week 10 - Thursday 4/20: Styling Forms and Images</h3>
+<h3>Week 10 - Thursday 4/20: CSS Layout Part 2 and Grids</h3>
 
-<h3>Week 11 - Thursday 4/27: CSS Transitions and Animations</h3>
+<h3>Week 11 - Thursday 4/27: Styling Forms and Images</h3>
 
-<h3>Week 12 - Thursday 5/4: Responsive Design with Bootstrap</h3>
+<h3>Week 12 - Thursday 5/4: CSS Transitions and Animations </h3>
 
-<h3>Week 13 - Thursday 5/11: Design Process and Looking Ahead</h3>
+<h3>Week 13 - Thursday 5/11: Design Process, Responsive Design with Bootstrap and Looking Ahead</h3>
 
 <h3>Week 14 - Thursday 5/18: Final Project Presentations</h3>
 
