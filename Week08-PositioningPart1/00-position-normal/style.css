@@ -1,0 +1,24 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  letter-spacing: .075em;
+  width: 800px;
+  padding: 50px;
+  background: #efefef;
+ 
+  /*use this to center content*/    
+  margin: 0 auto;
+}
+
+
+div {
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+    background: #a442f4;
+}
