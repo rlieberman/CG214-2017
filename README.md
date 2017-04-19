@@ -205,11 +205,11 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 <h3>Week 8 - Thursday 3/30: Midterm Project Presentations</h3>
 
 <h3>/// Week 9 - Thursday 4/6: CLASS CANCELED ///</h3>
-  * Make-up material on CSS Positioning
 
 <h3>---    Thursday 4/13: NO CLASS (Spring Recess)   ---</h3>
 
 <h3>Week 10 - Thursday 4/20:  CSS Layout Part 1</h3>
+
 * Review CSS Box Model
 	* Block v Inline
 	* Border, Margin, Padding
@@ -222,6 +222,10 @@ Discrimination and harassment are behaviors that are incompatible with the stand
    
 
 <h3>Week 11 - Thursday 4/27: CSS Layout Part 2 and Grids</h3>
+
+* Advanced Positioning
+* Intro to Grids
+* Review Final Project Assignment
 
 <h3>Week 12 - Thursday 5/4: CSS Transitions and Animations, Styling Forms and Images</h3>
 
