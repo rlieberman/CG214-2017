@@ -1,0 +1,27 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  letter-spacing: .075em;
+}
+
+.three-column {
+  max-width: 1000px;
+  min-width: 400px;
+  background: #efefef;
+    
+  padding: 2em;
+
+ /* styling multi-column text*/
+    
+  column-count: 3;
+  column-gap: 3em;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+    
+    
+}
