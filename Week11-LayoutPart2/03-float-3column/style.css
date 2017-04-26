@@ -1,0 +1,44 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif;
+  letter-spacing: .075em;
+}
+
+body {
+	max-width: 1000px;
+	min-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.div1 {
+
+	 background-color: #42f4ee;
+	 float: left;
+	 width: 40%;
+	 padding: 25px;
+}
+
+.div2 {
+
+	 background-color: #f46a38;
+	 float: left;
+	 width: 25%;
+     margin-left: 5%;
+	 padding: 25px;
+
+}
+
+.div3 {
+    
+	 background-color: greenyellow;
+	 float: right;
+	 width: 25%;
+	 padding: 25px;
+
+}
+

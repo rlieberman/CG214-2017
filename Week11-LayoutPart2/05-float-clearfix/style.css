@@ -1,0 +1,60 @@
+
+*, *:before, *:after {
+	/*show this as a fix for two column layout*/
+  box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif;
+  letter-spacing: .075em;
+}
+
+body {
+	max-width: 1000px;
+	min-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, sans-serif;
+
+}
+
+.div1 {
+
+	 background-color: #42f4ee;
+	 float: left;
+	 width: 40%;
+     height: 800px; /*give all the column divs a fixed height to make them the same height*/
+	 padding: 25px;
+}
+
+.div2 {
+
+	 background-color: #f46a38;
+	 float: left;
+	 width: 25%;
+     height: 800px; /*give all the column divs a fixed height to make them the same height*/
+     margin-left: 5%;
+	 padding: 25px;
+
+}
+
+.div3 {
+    
+	 background-color: greenyellow;
+	 float: right;
+	 width: 25%;
+     height: 800px; /*give all the column divs a fixed height to make them the same height*/
+	 padding: 25px;
+
+}
+
+.clearfix {
+    
+    /* add the clear property in the clearfix div rather than the footer div*/
+    clear: both;
+}
+
+footer {
+    background: #c4c4c4;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+

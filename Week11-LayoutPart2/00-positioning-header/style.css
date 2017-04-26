@@ -1,0 +1,98 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: Helvetica;
+
+    letter-spacing: .05em;
+}
+
+body {
+  width: 90%;
+  max-width: 900px;
+  min-width: 500px;
+  margin: 0 auto;
+    
+}
+
+
+#header {
+    height: 80px;
+    border-bottom: 1px solid grey;
+}
+
+#main-logo {
+    width: 150px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+/*POSITIONING AND STYLING FOR SEARCH BAR*/
+.search {
+    display: inline-block;
+    width: 250px;
+    height: 40px; 
+    position: relative;
+    top: -30px;
+    left: 10%;
+    background: green;
+}
+
+/*Indent the text close to center*/
+.search input { 
+    text-indent: 20px;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #ededed;
+
+}
+
+#searchBox{
+    width: 100%;
+    height: 100%;
+    border: 2px solid #ededed;
+}
+
+/*POSITIONING AND STYLING FOR BUTTONS*/
+#loginButtons {
+    display: inline-block;
+    height: 40px;
+    /*use position relative to tweak positioning*/
+    position: relative;
+    top: -30px;
+    left: 20%;
+}
+
+button{
+    font-size: 14px;
+    margin-left:10px;
+    margin-right: 10px;
+    height: 100%;
+    color: #CC0005;
+    border-style: none;
+    background: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.signin {
+    color: white;
+    background: #CC0005;
+}
+
+#container {
+    margin-top: 100px;
+    background: #ededed;
+    width: 100%;
+    height: 500px;
+    text-align:center;
+    line-height: 500px;
+}
+
+
+
+
+
+
+

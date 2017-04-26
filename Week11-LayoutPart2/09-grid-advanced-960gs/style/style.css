@@ -1,0 +1,38 @@
+
+body{
+    font-family: helvetica;
+    font-weight: normal;
+    color: #333333;
+}
+
+.container_12 {
+    background: #ededed;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    line-height: 250px;
+    height: 100%;
+}
+
+#one, #two, #three {
+    background-color: #00B2CA;
+    height: 250px;
+}
+
+#four, #five {
+    background-color: #1D4E89;
+    height: 250px;
+    margin-top: 20px;
+}
+
+#six, #seven { 
+    background-color: #F79256;
+    height: 250px;
+    margin-top: 20px;
+}
+
+#eight, #nine, #ten, #eleven {
+    background-color: #7DCFB6;
+    height: 250px;
+    margin-top: 20px;
+}

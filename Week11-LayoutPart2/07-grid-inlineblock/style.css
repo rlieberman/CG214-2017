@@ -1,0 +1,33 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  letter-spacing: .075em;
+  color: white;
+}
+
+#container {
+  max-width:800px;
+  margin: 0 auto;
+  background: yellow;
+}
+
+.grid {
+    margin: 0 auto;
+    width: 90%;
+/*    background: orange;;*/
+}
+
+.griditem {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
