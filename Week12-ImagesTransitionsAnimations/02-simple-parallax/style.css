@@ -1,0 +1,39 @@
+/* =================================
+  Fade In Hover
+==================================== */
+
+body {
+  margin: 0;  
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+
+
+.parallax {
+    /* The image used */
+    background-image: url("http://wonderopolis.org/_img?img=/wp-content/uploads/2015/03/1428_F.jpg&transform=resizeCrop,720,450");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.scrollingdiv {
+    height:1000px;
+    background-color:black;
+    font-size:36px;
+    color:white;
+}

@@ -1,0 +1,24 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+body {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+    
+}
+
+a {
+    color: aqua;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: mediumpurple;
+    cursor: url(cursor-img.png), auto;
+}

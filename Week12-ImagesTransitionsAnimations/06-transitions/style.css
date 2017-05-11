@@ -1,0 +1,76 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+body {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+    
+}
+
+div {
+    margin-bottom: 100px;
+    text-align: center;
+    
+}
+
+.effect1 {
+    background-color: palevioletred;
+    padding-top: 30px;
+    
+    width: 150px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+	-moz-transition: width 2s, height 4s;
+    transition: width 2s, height: 4s;
+    
+}
+
+.effect1:hover{ 
+    width: 300px;
+	Height: 300px;
+}
+
+
+.effect2 {
+    padding-top: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: limegreen;
+    color: white;
+    
+    transition: transform 1s;
+  
+}
+
+.effect2:hover{ 
+    
+    transform: translate(20px, 20px);
+
+}
+
+.effect3 {
+    background-color: aquamarine;
+    padding-top: 40px;
+    
+    width: 150px;
+    height: 100px;
+    
+     opacity: 0.2;
+    -webkit-transition: opacity 0.5s ease-in-out; /* For Safari 3.1 to 6.0 */
+    -moz-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+
+
+.effect3:hover{
+    opacity: 1.0;
+}
+
+

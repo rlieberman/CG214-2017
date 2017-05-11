@@ -1,0 +1,72 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+body {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+    
+}
+
+div {
+    width: 200px;
+    height: 75px;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+.effect1 {
+    background-color: palevioletred;
+    padding-top: 30px;
+    
+}
+
+.effect1:hover{ 
+    /* Rotate div */
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+}
+
+
+.effect2 {
+    background-color: limegreen;
+    color: white;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+    padding-top: 30px;
+}
+
+.effect2:hover{ 
+    top: -10px;
+
+}
+
+.effect3 {
+    background-color: aquamarine;
+    padding-top: 10px;
+}
+
+.effect3 .text2 {
+    position:relative;
+    bottom:30px;
+    left:0px;
+    visibility: hidden;
+    
+}
+
+.effect3:hover .text2 {
+    visibility:visible;
+    
+}
+
+.effect3:hover .text1 {
+    visibility:hidden;
+}
