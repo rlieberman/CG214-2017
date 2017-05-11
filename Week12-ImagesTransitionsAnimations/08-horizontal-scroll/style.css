@@ -1,0 +1,26 @@
+/* =================================
+  Fade In Hover
+==================================== */
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+
+
+.container {
+  position: relative;
+  padding-top: 10%;
+  width: 500%;
+}
+
+.image {
+  display: inline-block;
+  width: 800px;
+  height: auto;
+  margin-left: 2%;
+}
