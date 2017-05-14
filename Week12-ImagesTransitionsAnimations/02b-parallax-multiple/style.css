@@ -1,0 +1,69 @@
+/* =================================
+  Fade In Hover
+==================================== */
+
+body {
+  margin: 0;  
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+
+
+.parallaximage1 {
+    /* The image used */
+    background-image: url("http://wonderopolis.org/_img?img=/wp-content/uploads/2015/03/1428_F.jpg&transform=resizeCrop,720,450");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.scrollingdiv {
+    height:500px;
+    background-color:black;
+    font-size:36px;
+    color:white;
+}
+
+.parallaximage2 {
+    /* The image used */
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/7b/45/3a/7b453a9d72296feaf1ea019ca5840c28.jpg");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage3 {
+    /* The image used */
+    background-image: url("https://media.giphy.com/media/l41m6YZzaqxZQp4IM/giphy.gif");
+
+    /* Set a specific height */
+    min-height: 700px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
